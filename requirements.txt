@@ -5,3 +5,4 @@ xgboost
 holidays
 plotly
 scikit-learn
+statsmodels
